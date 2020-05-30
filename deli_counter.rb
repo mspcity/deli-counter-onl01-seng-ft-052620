@@ -19,4 +19,5 @@ end
 def take_a_number(array, name)
   # binding.pry
   array << name
+  "Welcome, #{name}. You are number #{array.length} in line."
 end
