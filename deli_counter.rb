@@ -4,4 +4,3 @@ def line(array)
   binding.pry
   puts "The line is currently empty."
 end
-
