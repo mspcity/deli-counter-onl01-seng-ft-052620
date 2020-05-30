@@ -1,6 +1,6 @@
 # Write your code here.
 require 'pry'
-def line(katz_deli)
+def line(array)
   binding.pry
   puts "The line is currently empty."
 end
