@@ -23,6 +23,7 @@ def take_a_number(array, name)
 end
 
 def now_serving(array)
-  binding.pry
+  
+  puts "Currently serving #{array.shift}."
   puts "There is nobody waiting to be served!"
 end
